@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 🎥 ft_vox
+  <h1> 🌿 ft_vox
   </h1>
 </div>
 
