@@ -7,7 +7,7 @@
 
 ft_vox is the first step to the creation of our very own Voxel World!
 
-This mproject is a the next step towards using OpenGL and is the continuation of ![scop](https://github.com/drabiot/scop).
+This mproject is a the next step towards using OpenGL and is the continuation of [scop](https://github.com/drabiot/scop).
 
 ![Static Badge](https://img.shields.io/badge/os-linux-orange)
 ![Static Badge](https://img.shields.io/badge/language-c%2B%2B17-blue)
